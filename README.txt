@@ -1,4 +1,4 @@
-1.Open RunProgram.hs
+1.Run Program.hs
 2.At end file enter assembly commands as show in example. Available assembly commands are listed above
   An example assembly program is already given
 3.Run command traceProgram code
